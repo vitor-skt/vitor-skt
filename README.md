@@ -17,7 +17,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas.
 <a href="https://wa.me/5511979728130" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
 <a href="mailto:vitor.oliveiramzx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <div>
-    <a href="https://wakatime.com/@652f1f63-f1f7-4d95-899a-607c0e0ce079"><img src="https://wakatime.com/badge/user/652f1f63-f1f7-4d95-899a-607c0e0ce079.svg" alt="Total time coded since Mar 7 2022" /></a>
+    <a href="https://wakatime.com/@652f1f63-f1f7-4d95-899a-607c0e0ce079" target="_blank"><img src="https://wakatime.com/badge/user/652f1f63-f1f7-4d95-899a-607c0e0ce079.svg" alt="Total time coded since Mar 7 2022" /></a>
   </div>
   
 <div style="display inline_block"><br>
